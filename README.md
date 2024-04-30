@@ -1,7 +1,7 @@
 # data_analyst
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [A_B_test_1](https://github.com/KseniyaCherednikova/data_analyst/blob/main/A_B_test_1/A_B_test_1.ipynb "A_B_test_1")| Приоритизация гипотез, запуск A/B-теста и анализ результатов| `pandas` |
+| [A_B_test_1](https://github.com/KseniyaCherednikova/data_analyst/blob/main/A_B_test_1/A_B_test_1.ipynb "A_B_test_1")| Приоритизация гипотез, запуск A/B-теста и анализ результатов| `pandas` `datetime` `matplotlib` `numpy` `scipy`|
 | [A_B_test_2](https://github.com/KseniyaCherednikova/data_analyst/blob/main/A_B_test_2/A_B_test_2.ipynb "A_B_test_2")| Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
 | [A_B_test_3](https://github.com/KseniyaCherednikova/data_analyst/blob/main/A_B_test_3/A_B_test_3.ipynb "A_B_test_3")| Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
 | [air travel](https://github.com/KseniyaCherednikova/data_analyst/blob/main/air%20travel/air_travel.ipynb "air travel")| Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
